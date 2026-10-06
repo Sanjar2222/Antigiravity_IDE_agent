@@ -1,6 +1,4 @@
-# Agent Ko'rsatmalari va Qoidalari (Agent Guidelines)
-
-Ushbu repository'da ishlaydigan barcha sun'iy intellekt agentlari (AI Agent / Antigravity Agent) quyidagi qoidalarga qat'iy rioya qilishi lozim:
+# Qoidalar
 
 ## 1. Toza Kod va Standartlar (Clean Code & Standards)
 - **Standartlarga rioya**: Kod yozishda tanlangan dasturlash tili standartlariga (masalan, Python uchun PEP 8, qat'iy tiplashtirish/type hints) amal qiling.
