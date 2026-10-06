@@ -1,0 +1,5 @@
+# Asosiy bog'liqliklar
+python-dotenv>=1.0.0
+
+# Rivojlantirish va testlash
+pytest>=8.0.0
